@@ -1,7 +1,7 @@
 ---
 title: Teaching
-icon: fas fa-info-circle
-order: 3
+icon: fas fa-user-graduate
+order: 2
 ---
 
 - [ ] Sayyed Jamaleddin Asadabadi University, Hamadan, Iran 
