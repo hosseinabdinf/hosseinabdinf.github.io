@@ -116,8 +116,8 @@ assets:
     # specify the Jekyll environment, empty means both
     # only works if `assets.self_host.enabled` is 'true'
     env:          # [development|production]
-
-paginate: #10
+# remove pagination SHIT
+# paginate: #10
 
 # ------------ The following options are not recommended to be modified ------------------
 
@@ -189,11 +189,11 @@ exclude:
   - node_modules
   - package*.json
 
-jekyll-archives:
-  enabled: [categories, tags]
-  layouts:
-    category: category
-    tag: tag
-  permalinks:
-    tag: /tags/:name/
-    category: /categories/:name/
+# jekyll-archives:
+#   enabled: [categories, tags]
+#   layouts:
+#     category: category
+#     tag: tag
+#   permalinks:
+#     tag: /tags/:name/
+#     category: /categories/:name/
