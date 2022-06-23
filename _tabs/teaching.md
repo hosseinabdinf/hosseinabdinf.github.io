@@ -5,7 +5,7 @@ order: 2
 ---
 
 - [ ] Sayyed Jamaleddin Asadabadi University, Hamadan, Iran 
-    - [ ] Fall 2021, Basic of Secure Computing (Lecturer)
+    - [ ] Fall 2021, Computer and Network Security (Lecturer)
     - [ ] Summer 2021, Operation Systems, Advanced Programming (Lecturer)
     - [ ] Spring 2021, Operation System Lab (Lecturer)
 - [ ] Shahed University, Tehran, Iran

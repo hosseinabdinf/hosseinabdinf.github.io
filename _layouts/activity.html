@@ -1,0 +1,28 @@
+---
+layout: page
+---
+<div class="">
+  {% for act in site.data.activities %}
+  <div class="mb-4 border rounded">
+      <div class="col pt-2">
+            <div style="width: 200px; float: left;">
+                <span class="fa fa-calendar"></span>
+                <span class=""> {{ act.start }} </span>
+                -
+                <span class=""> {{ act.end }} </span>
+            </div>
+            <div style="width: 150px; float: right;">
+                <span class="fa fa-map-marker"></span>
+                {{ act.location }}
+            </div>
+            <div style="width: 100%; float:left;">
+                <span class="fa fa-quote-right"></span>
+                <strong>{{ act.title }}</strong> - {{ act.place }}
+            </div>
+            <p>
+                {{ act.content }}
+            </p>
+      </div>
+  </div>
+  {% endfor %}
+</div>

@@ -1,0 +1,112 @@
+- number: 1
+  title: Common Criteria and X.509
+  date: 2017
+  location: Tehran, Iran
+  place: Shahed University
+  language: Persian
+  link: "https://hosseinabdinf.github.io/"
+- number: 2
+  title: "Internet of Healtcare Things: Security and Privacy Challenges"
+  date: 2017
+  location: Tehran, Iran
+  place: Shahed University
+  language: Persian
+  link: "https://hosseinabdinf.github.io/"
+- number: 3
+  title: Query on Encrypted Data
+  date: 2017
+  location: Tehran, Iran
+  place: Shahed University
+  language: Persian
+  link: "https://hosseinabdinf.github.io/"
+- number: 4
+  title: Tor Security
+  date: 2018
+  location: Tehran, Iran
+  place: Shahed University
+  language: Persian
+  link: "https://hosseinabdinf.github.io/"
+- number: 5
+  title: SSL-TLS and Web Security
+  date: 2018
+  location: Tehran, Iran
+  place: Shahed University
+  language: Persian
+  link: "https://hosseinabdinf.github.io/"
+- number: 6
+  title: Cyber Risk in Industrial Control Systems
+  date: 2019
+  location: Tehran, Iran
+  place: Shahed University
+  language: Persian
+  link: "https://hosseinabdinf.github.io/"
+- number: 7
+  title: ICS Security Architecture 
+  date: 2019
+  location: Tehran, Iran
+  place: Shahed University
+  language: Persian
+  link: "https://hosseinabdinf.github.io/"
+- number: 8
+  title: "ICS Viruses: Stuxnet a new era of malware"
+  date: 2019
+  location: Tehran, Iran
+  place: Shahed University
+  language: Persian
+  link: "https://hosseinabdinf.github.io/"
+- number: 9
+  title: "ISO/IEC9126 Software engineering — Product quality"
+  date: 2019
+  location: Tehran, Iran
+  place: Shahed University
+  language: Persian
+  link: "https://hosseinabdinf.github.io/"
+- number: 10
+  title: Mixnets vs Tor
+  date: 2020
+  location: Tehran, Iran
+  place: Shahed University
+  language: Persian
+  link: "https://hosseinabdinf.github.io/"
+- number: 11
+  title: "Wireless Sensor Networks: Security and Privacy Challenges"
+  date: 2020
+  location: Tehran, Iran
+  place: Shahed University
+  language: Persian
+  link: "https://hosseinabdinf.github.io/"
+- number: 12
+  title: "Internet of Vehicles: Architecture, and Security Challenges"
+  date: 2020
+  location: Tehran, Iran
+  place: Shahed University
+  language: Persian
+  link: "https://hosseinabdinf.github.io/"
+- number: 13
+  title: Cryptographic Protocol Verification with ProVerif
+  date: 2020
+  location: Tehran, Iran
+  place: Shahed University
+  language: Persian
+  link: "https://hosseinabdinf.github.io/"
+- number: 14
+  title: An Introduction to Smartcard Security
+  date: 2020
+  location: Tehran, Iran
+  place: Shahed University
+  language: Persian
+  link: "https://hosseinabdinf.github.io/"
+- number: 15
+  title: Android Application Security
+  date: 2021
+  location: Hammadan, Iran
+  place: Sayyed Jamaleddin Asadabadi
+  language: Persian
+  link: "https://hosseinabdinf.github.io/"
+- number: 16
+  title: AI, Blockchain, and Metaverse
+  date: 2022
+  location: Hammadan, Iran
+  place: Sayyed Jamaleddin Asadabadi
+  language: Persian
+  link: "https://hosseinabdinf.github.io/"
