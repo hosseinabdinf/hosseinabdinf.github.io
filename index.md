@@ -7,7 +7,7 @@ title: Hossein Abdi Nasib Far
 > Looking for a Ph.D. position in applied cryptography, computer & network security, blockchain, AI security.
 {: .prompt-tip }
 
-> You can download my CV from [here](/assets/hosseinabdi.pdf). 
+> You can download my CV from [here](https://hosseinabdinf.github.io/assets/hosseinabdi.pdf). 
 {: .prompt-info }
 
 I am a security researcher. I hold a master's degree in computer science. My thesis is entitled "lightweight anonymous privacy-preserving three-factor authentication scheme for WSN-based IIoT." I was honored to be advised by [Majid Bayat](https://scholar.google.com/citations?user=DYtGajIAAAAJ&hl=en) and [Mohammadali Doostari](https://scholar.google.com/citations?hl=en&user=ncsPed4AAAAJ). My research interests lie in Security, Applied cryptography, Internet of Things, Blockchain, AI Security and Privacy, and Network Security and Privacy.
