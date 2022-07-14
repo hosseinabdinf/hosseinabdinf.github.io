@@ -78,7 +78,7 @@
   <link rel="stylesheet" href="{{ site.data.assets[origin].bootstrap-toc.css }}">
   {% endif %}
 
-  {% if page.layout == 'page' or page.layout == 'post' %}
+  {% if page.layout == 'page' or page.layout == 'post' or page.layout == 'gallery' %}
   <!-- Manific Popup -->
   <link rel="stylesheet" href="{{ site.data.assets[origin].magnific-popup.css }}">
   {% endif %}
@@ -110,6 +110,10 @@
       text-align: left;
       text-justify: unset;
     }
+
+    /* #sidebar {
+      background: #6610f2;
+    } */
 
     #sidebar .site-title a {
       font-size: 1.2rem;
