@@ -2,9 +2,6 @@ Sayyed Jamaleddin Asadabadi University:
   - src: /assets/img/gallery/sjau/IMG_20210307_232344.jpg
     description: "Working late, the night Before of the first SJAU conference <br> Left to right: Eng. Nouri, Dr. Shahbazi and me (2021)"
     link:
-  - src: /assets/img/gallery/sjau/IMG_20210906_081026.jpg
-    description: "Last day before of the second SJAU conference (2021)"
-    link:
   - src: /assets/img/gallery/sjau/IMG_20210906_094242.jpg
     description: "During the second SJAU conference (2021)"
     link:
@@ -22,55 +19,66 @@ Nature:
     description: Molham Darreh village from top of the mountain (2020)
     link: https://goo.gl/maps/BhBaQ6xDWWNcZaHBA
   - src: /assets/img/gallery/nature/IMG_20210521_094325.jpg
-    description: Khondab village from top of the Karkas mountain (2021)
+    description: Khondab village perspective from the top of the Karkas mountain (2021)
     link: https://www.google.com/maps/place/34%C2%B046'32.5%22N+48%C2%B015'11.9%22E/@34.7757153,48.2533089,215m/data=!3m1!1e3!4m5!3m4!1s0x0:0x43bb92a4b0480331!8m2!3d34.7756825!4d48.2533105
   - src: /assets/img/gallery/nature/IMG_20210521_095232.jpg
     description: Karkas mountain (2021)
     link:
   - src: /assets/img/gallery/nature/IMG_20220506_194041.jpg
-    description: hello test 1 (2022)
+    description: Riding motorcycle, and hill climbing (2022)
     link:
 Shahed University:
-  - src: /assets/img/gallery/lab/IMG_20190423_144410.jpg
-    description: Me at Dr. Bayat Lab (2019)
+  - src: /assets/img/gallery/shahed/IMG_20190423_144410.jpg
+    description: Me at Dr. Bayat Lab, focused on reading papers (2019)
+    link:
+  - src: /assets/img/gallery/shahed/porg_contest.jpg
+    description: Sharif University, Programing Contest (2019)
+    link:
+  - src: /assets/img/gallery/shahed/20200115_161602.jpg
+    description: "Master Dissertation Defense (2020) <br> LR: Dr. Haj Seyyed Javadi, M Fotouhi, Dr. Doostari, Dr. Khazaei, Dr. Bayat, and me"
     link:
 A night in desert:
   - src: /assets/img/gallery/desert/20181018_204120.jpg
-    description: desert item 1 (2018)
-    link:
+    description: A very delicious beef steak :) (2018)
+    link: 
   - src: /assets/img/gallery/desert/20181019_061711.jpg
-    description: desert item 3 (2018)
-    link:
+    description: Waking up early waiting for sun to rise up, Abuzeid Abad Desert in Kashan (2018)
+    link: https://goo.gl/maps/YrUwETaw2mAJvm7r7
   - src: /assets/img/gallery/desert/20181019_140625.jpg
-    description: desert item 4 (2018)
-    link:
+    description: Fin garden, Kashan, Isfahan (2018)
+    link: https://goo.gl/maps/PTWz9KvtYX2gxBQeA
   - src: /assets/img/gallery/desert/20181019_054437.jpg
-    description: sunrise in desert (2018)
+    description: Early morning, beautiful sunrises shades, Abuzeid Abad Desert in Kashan (2018)
     link:
-Programing Contest:
-  - src: /assets/img/gallery/pc/porg_contest.jpg
-    description: Sharif University, Programing Contest (2019)
-    link:
-Pasargad:
-  - src: /assets/img/gallery/pasargad/PANO_20180326_172935.jpg
-    description: (2018)
-    link:
-  - src: /assets/img/gallery/pasargad/PANO_20180326_175522.jpg
-    description: (2018)
-    link:
-  - src: /assets/img/gallery/pasargad/IMG_20180326_133814.jpg
-    description: (2018)
-    link:
+Travel:
+  - src: /assets/img/gallery/travel/PANO_20180326_172935.jpg
+    description: Persepolis, Shiraz, Iran (2018)
+    link: https://goo.gl/maps/7SjAkDp1r9NbCpLu6
+  - src: /assets/img/gallery/travel/PANO_20180326_175522.jpg
+    description: Takht-e Jamshid, Shiraz, Iran (2018)
+    link: https://goo.gl/maps/HXX3q536uuy4twH58
+  - src: /assets/img/gallery/travel/IMG_20180326_133814.jpg
+    description: Pasargadae World Heritage Site (2018)
+    link: https://goo.gl/maps/6W4SHCa8hThWJrcCA
+  - src: /assets/img/gallery/travel/IMG_20180327_152317.jpg
+    description: Tomb of Hafez (2018)
+    link: https://goo.gl/maps/kBmE7ArjBVeDHM9r7
+  - src: /assets/img/gallery/travel/IMG_20180328_104906.jpg
+    description: Arg (Castle) of Karim Khan (2018)
+    link: https://goo.gl/maps/4uL2LHLZxjcUaoDy9
+  - src: /assets/img/gallery/travel/IMG_20211210_103604.jpg
+    description: Ferdowsi Tomb Frontage (2021)
+    link: https://goo.gl/maps/4QNQYtsXrh2oS7gm7
 Family Village:
   - src: /assets/img/gallery/old/2016-01-10 08.06.03.jpg
-    description: (2016)
-    link:
+    description: Pir Salman Pond (2016)
+    link: https://goo.gl/maps/41u1hJcgFfuzwgQg9
   - src: /assets/img/gallery/old/IMG_20170509_123931.jpg
-    description: (2017)
+    description: My Grandfather's Farm in summer (2017)
     link:
   - src: /assets/img/gallery/old/IMG_20180322_150929.jpg
-    description: (2018)
-    link:
+    description: 150 year old carpet made by my great-grandmother (2018)
+    link: https://en.wikipedia.org/wiki/Persian_carpet
 # sample:
 #   - src:
 #     description:

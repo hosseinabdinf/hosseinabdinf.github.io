@@ -21,5 +21,10 @@ gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 # Jekyll <= 4.2.0 compatibility with Ruby 3.0
 gem "webrick", "~> 1.7"
 
-# for jekyll post and other command
-gem 'jekyll-compose', group: [:jekyll_plugins]
+# add by hossein
+group :jekyll_plugins do
+  # for jekyll post and other command
+  gem 'jekyll-compose'
+  # for showing pdf inside pages
+  gem "jekyll-pdf-embed"
+end

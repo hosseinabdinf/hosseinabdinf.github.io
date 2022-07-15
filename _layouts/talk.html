@@ -6,7 +6,7 @@ layout: page
     {% for talk in site.data.talks %}
     <div class="list-group-item list-group-item-action">
       <div class="d-flex w-100 justify-content-between">
-        <strong>{{ talk.number }}. {{ talk.title }}</strong>
+        <strong>{{ forloop.index }}. {{ talk.title }}</strong>
       </div>
 
       <div class="d-flex w-100 justify-content-between">
